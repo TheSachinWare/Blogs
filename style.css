@@ -1,0 +1,59 @@
+
+
+.h1{
+    font-weight: bolder;
+    color: white;
+}
+
+.post{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    height: 200px;
+    width: 1100px;
+    border: 2px rgb(240, 209, 5) solid;
+    margin: 30px auto;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 5px black inline;
+}
+
+.user{
+    font-style: italic;
+}
+
+.see{
+    text-decoration: none;
+    color: yellow;
+}
+
+.see:hover{
+   color: lightblue;
+   text-decoration: underline;
+}
+
+.heading{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 50px;
+    font-family: 'Comic Sans MS';
+}
+
+.new1{
+    color: rgb(7, 7, 7);
+    text-decoration: none;
+    font-family: 'Comic Sans MS';
+    font-size: 22px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.new1:hover{
+    color: blue;
+    text-decoration: underline;
+    font-size: 24px;
+}
+
+.new{
+    padding: 10px auto;
+    margin-left: 50px;
+}
